@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1590104461 source:c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590102863 c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\datawarehouse.h
+
+1590022851 source:c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1590022754 c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\validaciones.h
+
+1590090512 source:c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1590090512 c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\fecha.h
+
+1590097654 source:c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1590097574 c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\color.h
+
+1590095536 source:c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1590095536 c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\marca.h
+
+1590104477 c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\auto.h
+	"marca.h"
+	"color.h"
+	"fecha.h"
+	"datawarehouse.h"
+
+1590104498 source:c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"auto.h"
+	"datawarehouse.h"
+
+1590100776 source:c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1590100776 c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\servicio.h
+
+1590102706 c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"color.h"
+	"servicio.h"
+
+1590102589 source:c:\users\pc kevin\desktop\parcial laboratorio\parcial\parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"servicio.h"
+
+1590162773 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"auto.h"
+	"datawarehouse.h"
+
+1590104477 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\auto.h
+	"marca.h"
+	"color.h"
+	"fecha.h"
+	"datawarehouse.h"
+
+1590095536 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\marca.h
+
+1590097574 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\color.h
+
+1590090512 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\fecha.h
+
+1590102863 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\datawarehouse.h
+
+1590097654 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1590090512 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1590104461 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590100776 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\servicio.h
+
+1590102706 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"color.h"
+	"servicio.h"
+
+1590095536 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1590100776 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1590102589 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"servicio.h"
+
+1590022851 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1590022754 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas\parcial\validaciones.h
+
+1590165703 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"auto.h"
+	"datawarehouse.h"
+
+1590166515 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\auto.h
+	"marca.h"
+	"color.h"
+	"fecha.h"
+	"datawarehouse.h"
+
+1590166349 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\marca.h
+
+1590166349 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\color.h
+
+1590166349 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\fecha.h
+
+1590102863 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\datawarehouse.h
+
+1590166349 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1590090512 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1590104461 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590166349 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\servicio.h
+
+1590166515 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"color.h"
+	"servicio.h"
+
+1590166349 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1590166349 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1590166349 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"servicio.h"
+
+1590165245 source:c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1590164888 c:\users\pc kevin\desktop\parcial laboratorio\nunca mas cocopia\parcial\validaciones.h
+
+1590195102 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"auto.h"
+	"datawarehouse.h"
+	"cliente.h"
+
+1590186930 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\auto.h
+	"marca.h"
+	"color.h"
+	"fecha.h"
+	"datawarehouse.h"
+	"cliente.h"
+
+1590166349 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\marca.h
+
+1590183548 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\color.h
+
+1590166349 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\fecha.h
+
+1590102863 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\datawarehouse.h
+
+1590166349 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1590090512 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1590195039 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+	"FUNCIONES.h"
+
+1590186347 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\servicio.h
+
+1590185964 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"color.h"
+	"servicio.h"
+
+1590166349 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1590166349 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1590187327 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"servicio.h"
+	"cliente.h"
+
+1590166515 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1590166515 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\validaciones.h
+
+1590185380 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\cliente.h
+
+1590188481 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"auto.h"
+	"color.h"
+	"marca.h"
+
+1590194037 source:c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"auto.h"
+	"cliente.h"
+
+1590195039 c:\users\pc kevin\desktop\parcial laboratorio\locuraa\parcial\funciones.h
+
